@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "2wAZw2qg2nI=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Lenovo\\Desktop\\Project\\School-App\\back-end\\CustomCare_Backend\\Infrastructure\\Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lenovo\\.nuget\\packages\\bcrypt.net-next\\4.0.3\\bcrypt.net-next.4.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
