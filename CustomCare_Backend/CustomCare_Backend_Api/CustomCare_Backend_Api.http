@@ -1,0 +1,6 @@
+@CustomCare_Backend_Api_HostAddress = http://localhost:5027
+
+GET {{CustomCare_Backend_Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

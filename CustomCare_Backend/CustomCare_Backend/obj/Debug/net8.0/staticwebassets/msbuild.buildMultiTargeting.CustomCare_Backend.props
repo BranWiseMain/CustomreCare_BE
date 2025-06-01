@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\CustomCare_Backend.props" />
+</Project>
