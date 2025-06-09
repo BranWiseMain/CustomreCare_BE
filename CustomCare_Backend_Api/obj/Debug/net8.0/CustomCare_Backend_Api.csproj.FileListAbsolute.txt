@@ -1,0 +1,14 @@
+C:\Users\Lenovo\Desktop\Project\School-App\back-end\CustomCare\CustomreCare_BE\CustomCare_Backend\CustomCare_Backend_Api\obj\Debug\net8.0\CustomCare_Backend_Api.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\Project\School-App\back-end\CustomCare\CustomreCare_BE\CustomCare_Backend\CustomCare_Backend_Api\obj\Debug\net8.0\CustomCare_Backend_Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\Project\School-App\back-end\CustomCare\CustomreCare_BE\CustomCare_Backend\CustomCare_Backend_Api\obj\Debug\net8.0\CustomCare_Backend_Api.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\Project\School-App\back-end\CustomCare\CustomreCare_BE\CustomCare_Backend\CustomCare_Backend_Api\obj\Debug\net8.0\CustomCare_Backend_Api.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\Project\School-App\back-end\CustomCare\CustomreCare_BE\CustomCare_Backend\CustomCare_Backend_Api\obj\Debug\net8.0\CustomCare_Backend_Api.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Project\School-App\back-end\CustomCare\CustomreCare_BE\CustomCare_Backend\CustomCare_Backend_Api\obj\Debug\net8.0\CustomCare_Backend_Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Lenovo\Desktop\Project\School-App\back-end\CustomCare\CustomreCare_BE\CustomCare_Backend\CustomCare_Backend_Api\obj\Debug\net8.0\CustomCare_Backend_Api.sourcelink.json
+C:\Users\Lenovo\Desktop\Project\CustomCare\CustomreCare_BE\CustomCare_Backend\CustomCare_Backend_Api\obj\Debug\net8.0\CustomCare_Backend_Api.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\Project\CustomCare\CustomreCare_BE\CustomCare_Backend\CustomCare_Backend_Api\obj\Debug\net8.0\CustomCare_Backend_Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\Project\CustomCare\CustomreCare_BE\CustomCare_Backend\CustomCare_Backend_Api\obj\Debug\net8.0\CustomCare_Backend_Api.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\Project\CustomCare\CustomreCare_BE\CustomCare_Backend\CustomCare_Backend_Api\obj\Debug\net8.0\CustomCare_Backend_Api.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\Project\CustomCare\CustomreCare_BE\CustomCare_Backend\CustomCare_Backend_Api\obj\Debug\net8.0\CustomCare_Backend_Api.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Project\CustomCare\CustomreCare_BE\CustomCare_Backend\CustomCare_Backend_Api\obj\Debug\net8.0\CustomCare_Backend_Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Lenovo\Desktop\Project\CustomCare\CustomreCare_BE\CustomCare_Backend\CustomCare_Backend_Api\obj\Debug\net8.0\CustomCare_Backend_Api.sourcelink.json
