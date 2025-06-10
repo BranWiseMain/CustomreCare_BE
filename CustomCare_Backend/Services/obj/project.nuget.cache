@@ -1,12 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "HQtS+dhEMVY=",
+  "dgSpecHash": "v4ziFnC7YCI=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Lenovo\\Desktop\\Project\\School-App\\back-end\\CustomCare_Backend\\Services\\Services.csproj",
+  "projectFilePath": "C:\\Users\\Lenovo\\Desktop\\Project\\CustomCare\\CustomreCare_BE\\CustomCare_Backend\\Services\\Services.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Lenovo\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\Lenovo\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",
-    "C:\\Users\\Lenovo\\.nuget\\packages\\bcrypt.net-next\\4.0.3\\bcrypt.net-next.4.0.3.nupkg.sha512",
     "C:\\Users\\Lenovo\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\6.0.0\\microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",
     "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.codeanalysis.analyzers\\3.3.3\\microsoft.codeanalysis.analyzers.3.3.3.nupkg.sha512",

@@ -9,6 +9,7 @@
       "CustomCare_Backend_Api/1.0.0": {
         "dependencies": {
           "Domains": "1.0.0",
+          "Infrastructure": "1.0.0",
           "Microsoft.EntityFrameworkCore.Design": "8.0.16",
           "Services": "1.0.0",
           "Swashbuckle.AspNetCore": "6.6.2"
@@ -960,7 +961,8 @@
       "Infrastructure/1.0.0": {
         "dependencies": {
           "BCrypt.Net-Next": "4.0.3",
-          "Domains": "1.0.0"
+          "Domains": "1.0.0",
+          "Services": "1.0.0"
         },
         "runtime": {
           "Infrastructure.dll": {
@@ -972,7 +974,6 @@
       "Services/1.0.0": {
         "dependencies": {
           "Domains": "1.0.0",
-          "Infrastructure": "1.0.0",
           "Microsoft.EntityFrameworkCore": "8.0.16",
           "Microsoft.EntityFrameworkCore.SqlServer": "8.0.16"
         },

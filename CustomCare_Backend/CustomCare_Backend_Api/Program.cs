@@ -1,4 +1,6 @@
 
+using Branwise.Domains.Interfaces;
+using Branwise.Infrastructure.Repositories;
 using Branwise.Services;
 using Microsoft.EntityFrameworkCore;
 
@@ -18,6 +20,12 @@ namespace CustomCare_Backend_Api
             builder.Services.AddSwaggerGen();
             builder.Services.AddDbContextPool<CustomCareDbContext>(options =>
                 options.UseSqlServer(builder.Configuration.GetConnectionString("DbConnection")));
+
+            // Register repositories
+            builder.Services.AddScoped<IClientRepository, ClientRepository>();
+            builder.Services.AddScoped<IIssueReportRepository, IssueReportRepository>();
+            builder.Services.AddScoped<IFeedBackRepository, FeedBackRepository>();
+            builder.Services.AddScoped<IAdminRepository, AdminRepository>();
 
             var app = builder.Build();
 
