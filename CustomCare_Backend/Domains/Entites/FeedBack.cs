@@ -1,13 +1,15 @@
-﻿using Branwise.Domains.Enums;
+﻿using Branwise.Domains.Common;
 
-namespace Branwise.Domains.Entites;
+namespace Branwise.Domains.Entities;
 
-public class FeedBack
+public class FeedBack : BaseClass
 {
-    public int Id { get; set; }
-    public int UserId { get; set; }
-    public string Message { get; set; }
-    public DateTime Timestamp { get; set; }
-    public SenderType Sender { get; set; }
-    public User User { get; set; }
+    public Guid Id { get; set; } = Guid.NewGuid();
+    public Guid TenantId { get; set; }
+    public string CustomerNumber { get; set; } = default!;
+    public string Message { get; set; } = default!;
+    public int Rating { get; set; }
+
+    // Relations
+    public Client? Client { get; set; }
 }

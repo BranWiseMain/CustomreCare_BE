@@ -1,12 +1,1 @@
-{
-  "Version": 1,
-  "Hash": "8lld/E4019Z7wzm79xTzpw8NFVSOoF4mrAagBblFLPY=",
-  "Source": "CustomCare_Backend_Api",
-  "BasePath": "_content/CustomCare_Backend_Api",
-  "Mode": "Default",
-  "ManifestType": "Build",
-  "ReferencedProjectsConfiguration": [],
-  "DiscoveryPatterns": [],
-  "Assets": [],
-  "Endpoints": []
-}
+{"Version":1,"Hash":"8lld/E4019Z7wzm79xTzpw8NFVSOoF4mrAagBblFLPY=","Source":"CustomCare_Backend_Api","BasePath":"_content/CustomCare_Backend_Api","Mode":"Default","ManifestType":"Build","ReferencedProjectsConfiguration":[],"DiscoveryPatterns":[],"Assets":[],"Endpoints":[]}

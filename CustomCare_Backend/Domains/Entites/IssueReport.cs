@@ -1,19 +1,18 @@
 ﻿using Branwise.Domains.Common;
 using Branwise.Domains.Enums;
 
-namespace Branwise.Domains.Entites;
+namespace Branwise.Domains.Entities;
 
 public class IssueReport : BaseClass
 {
-    public int Id { get; set; }
-    public int UserId { get; set; }
-    public int ProviderId { get; set; }
-    public string Description { get; set; }
-    public DateTime? ResolvedAt { get; set; }
-    public ProblemType problemType { get; set; }
-    public IssueStatus IStatus { get; set; }
-    
-    public Provider Provider { get; set; }
-    public User User { get; set; }
-    //public ICollection<Notification> Notifications { get; set; } // Assuming you have a Notification entity
+    public Guid Id { get; set; } = Guid.NewGuid();
+    public Guid TenantId { get; set; }
+    public string CustomerNumber { get; set; } = default!;
+    public ProblemType IssueType { get; set; } = default!;
+    public string? Description { get; set; }
+    public IssueStatus Status { get; set; } = 0; // Pending, Resolved, Failed
+    public string? ResolutionResponse { get; set; }
+
+    // Relations
+    public Client? Client { get; set; }
 }

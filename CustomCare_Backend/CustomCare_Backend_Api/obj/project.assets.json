@@ -1598,7 +1598,8 @@
         "framework": ".NETCoreApp,Version=v8.0",
         "dependencies": {
           "BCrypt.Net-Next": "4.0.3",
-          "Domains": "1.0.0"
+          "Domains": "1.0.0",
+          "Services": "1.0.0"
         },
         "compile": {
           "bin/placeholder/Infrastructure.dll": {}
@@ -1612,7 +1613,6 @@
         "framework": ".NETCoreApp,Version=v8.0",
         "dependencies": {
           "Domains": "1.0.0",
-          "Infrastructure": "1.0.0",
           "Microsoft.EntityFrameworkCore": "8.0.16",
           "Microsoft.EntityFrameworkCore.SqlServer": "8.0.16"
         },
@@ -4497,6 +4497,7 @@
   "projectFileDependencyGroups": {
     "net8.0": [
       "Domains >= 1.0.0",
+      "Infrastructure >= 1.0.0",
       "Microsoft.EntityFrameworkCore.Design >= 8.0.16",
       "Services >= 1.0.0",
       "Swashbuckle.AspNetCore >= 6.6.2"
@@ -4509,11 +4510,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Lenovo\\Desktop\\Project\\School-App\\back-end\\CustomCare_Backend\\CustomCare_Backend_Api\\CustomCare_Backend_Api.csproj",
+      "projectUniqueName": "C:\\Users\\Lenovo\\Desktop\\Project\\CustomCare\\CustomreCare_BE\\CustomCare_Backend\\CustomCare_Backend_Api\\CustomCare_Backend_Api.csproj",
       "projectName": "CustomCare_Backend_Api",
-      "projectPath": "C:\\Users\\Lenovo\\Desktop\\Project\\School-App\\back-end\\CustomCare_Backend\\CustomCare_Backend_Api\\CustomCare_Backend_Api.csproj",
+      "projectPath": "C:\\Users\\Lenovo\\Desktop\\Project\\CustomCare\\CustomreCare_BE\\CustomCare_Backend\\CustomCare_Backend_Api\\CustomCare_Backend_Api.csproj",
       "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Lenovo\\Desktop\\Project\\School-App\\back-end\\CustomCare_Backend\\CustomCare_Backend_Api\\obj\\",
+      "outputPath": "C:\\Users\\Lenovo\\Desktop\\Project\\CustomCare\\CustomreCare_BE\\CustomCare_Backend\\CustomCare_Backend_Api\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -4534,11 +4535,14 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\Lenovo\\Desktop\\Project\\School-App\\back-end\\CustomCare_Backend\\Domains\\Domains.csproj": {
-              "projectPath": "C:\\Users\\Lenovo\\Desktop\\Project\\School-App\\back-end\\CustomCare_Backend\\Domains\\Domains.csproj"
+            "C:\\Users\\Lenovo\\Desktop\\Project\\CustomCare\\CustomreCare_BE\\CustomCare_Backend\\Domains\\Domains.csproj": {
+              "projectPath": "C:\\Users\\Lenovo\\Desktop\\Project\\CustomCare\\CustomreCare_BE\\CustomCare_Backend\\Domains\\Domains.csproj"
             },
-            "C:\\Users\\Lenovo\\Desktop\\Project\\School-App\\back-end\\CustomCare_Backend\\Services\\Services.csproj": {
-              "projectPath": "C:\\Users\\Lenovo\\Desktop\\Project\\School-App\\back-end\\CustomCare_Backend\\Services\\Services.csproj"
+            "C:\\Users\\Lenovo\\Desktop\\Project\\CustomCare\\CustomreCare_BE\\CustomCare_Backend\\Infrastructure\\Infrastructure.csproj": {
+              "projectPath": "C:\\Users\\Lenovo\\Desktop\\Project\\CustomCare\\CustomreCare_BE\\CustomCare_Backend\\Infrastructure\\Infrastructure.csproj"
+            },
+            "C:\\Users\\Lenovo\\Desktop\\Project\\CustomCare\\CustomreCare_BE\\CustomCare_Backend\\Services\\Services.csproj": {
+              "projectPath": "C:\\Users\\Lenovo\\Desktop\\Project\\CustomCare\\CustomreCare_BE\\CustomCare_Backend\\Services\\Services.csproj"
             }
           }
         }
@@ -4553,7 +4557,7 @@
         "auditLevel": "low",
         "auditMode": "direct"
       },
-      "SdkAnalysisLevel": "9.0.200"
+      "SdkAnalysisLevel": "9.0.300"
     },
     "frameworks": {
       "net8.0": {
@@ -4589,7 +4593,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

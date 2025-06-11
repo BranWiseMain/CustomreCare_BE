@@ -2,9 +2,7 @@
 
 public enum IssueStatus
 {
-    Open = 1,
-    InProgress = 2,
-    Resolved = 3,
-    Closed = 4,
-    Reopened = 5,
+    Pending = 0,
+    Failed = 1,
+    Resolved = 2,
 }

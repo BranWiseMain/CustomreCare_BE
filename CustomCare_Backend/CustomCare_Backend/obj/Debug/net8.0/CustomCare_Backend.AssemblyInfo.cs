@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CustomCare_Backend")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1a195a0db79056d520e432cd4712e727b5ea7154")]
 [assembly: System.Reflection.AssemblyProductAttribute("CustomCare_Backend")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CustomCare_Backend")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
